@@ -1,0 +1,3 @@
+# Yarl-Geek-Challange-2022
+ARL GEEK CHALLENGE SEASON 11 – SENIOR
+The intent of the competition is to nurture IT skills, innovation and creativity, fostering a spirit of entrepreneurship among the entrants. The best and the brightest young minds will be invited to join hands to utilize technology, taking on some of the world’s toughest problems. While competing with their peers, participants will have the opportunity to work alongside industrial practitioners, gain valuable industrial experience, make new friends, expose their abilities to the global IT industry and transform their ideas into reality.
